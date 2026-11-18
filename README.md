@@ -1,5 +1,7 @@
 ## Cortex Plasticity Lab
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24355033.svg)](https://doi.org/10.5281/zenodo.24355033)
+
 Cortex Plasticity Lab is an interactive neuroscience platform that combines mechanistic and predictive modeling to explore the complex interactions between drug compounds, neural circuits, and brain plasticity.
 
 By integrating experimental neuroscience data with circuit-specific simulations, the platform investigates how drug-induced changes in neuronal activity and inhibition may affect synaptic communication, learning, and adaptation. It provides an accessible environment for exploring drug–brain interactions, testing mechanistic hypotheses, and examining how molecular effects may translate into changes in neural circuit function.
