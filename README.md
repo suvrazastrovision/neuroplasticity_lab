@@ -10,7 +10,7 @@ The platform's predictions are exploratory and require experimental and biologic
 
 ## Scientific Paper and Design Rationale
 
-Read the [scientific paper and design rationale](docs/Cortex_Plasticity_Lab_Paper.pdf) behind the diazepam simulations in **v0.3.0** under one specific condition demonstrating how to interpret the results.
+Read the [scientific paper and design rationale](docs/Cortex_Plasticity_Lab_Paper.pdf) behind the diazepam simulations in **v0.3.0** under one specific condition set demonstrating how to interpret the results.
 
 ## Interactive Platform
 
