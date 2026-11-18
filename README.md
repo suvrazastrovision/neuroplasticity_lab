@@ -24,6 +24,6 @@ The platform's is under active development and the source code, complete design 
 
 ## Contributions
 
-**Suvra Nath** — Design, research work, and backend development.
+**Suvra Nath** — Design, research work, and full-stack development.
 
 Copyright © 2026 Suvra Nath.
