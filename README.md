@@ -1,4 +1,4 @@
-# Cortex Plasticity Lab
+## Cortex Plasticity Lab
 
 Cortex Plasticity Lab is an interactive neuroscience platform that combines mechanistic and predictive modeling to explore the complex interactions between drug compounds, neural circuits, and brain plasticity.
 
@@ -18,7 +18,7 @@ Browse [Cortex Plasticity Lab](https://cox-simulator.onrender.com/) to explore c
 
 ## Source Code Availability
 
-The platform's is under active development and the source code is not currently public. It will be released upon completion of the application and/or made available upon an official request.
+The platform's is under active development and the source code, complete design logic is not currently public. It will be released upon completion of the application and/or made available upon an official request.
 
 ## Contributions
 
