@@ -20,6 +20,8 @@ Browse [Cortex Plasticity Lab](https://cox-simulator.onrender.com/) to explore c
 
 The platform's is under active development and the source code, complete design logic is not currently public. It will be released upon completion of the application and/or made available upon an official request.
 
+Collaborations are welcome.
+
 ## Contributions
 
 **Suvra Nath** — Design, research work, and backend development.
