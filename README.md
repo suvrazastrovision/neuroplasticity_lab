@@ -18,7 +18,7 @@ Browse [Cortex Plasticity Lab](https://cox-simulator.onrender.com/) to explore c
 
 ## Source Code Availability
 
-The platform's source code is not currently public. It will be released upon completion of the application and/or made available upon an official request with the author's approval.
+The platform's is under active development and the source code is not currently public. It will be released upon completion of the application and/or made available upon an official request.
 
 ## Contributions
 
